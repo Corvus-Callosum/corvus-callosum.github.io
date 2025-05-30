@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Electrical Engineering, University of Tennessee, Knoxville, TBD
-* B.S. in Electrical Engineering, University of Tennessee, Knoxville, May 2023
+* M.S. in Electrical Engineering, University of Tennessee - Knoxville, TBD
+* B.S. in Electrical Engineering, University of Tennessee - Knoxville, May 2023
 
 Work experience
 ======
