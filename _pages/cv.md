@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Current: Denso
+* Current: Denso <p align="right">Your text here</p>
   * Electrical Engineer
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
