@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* <ul>
-  <li style="display: flex; justify-content: space-between;"> <span>Current: Denso</span> <span>AUG 2024 - PRESENT</span> </li> </ul>
+* <ul><li style="display: flex; justify-content: space-between;"><span>Current: Denso</span><span>AUG 2024 - PRESENT</span></li></ul>
   * Electrical Engineer
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
