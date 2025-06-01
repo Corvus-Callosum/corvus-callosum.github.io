@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-Test
+<p>This text is left-aligned. <span style="text-align: right;">This part is right-aligned.</span></p>
  * test
    
 * AUG 2024 - PRESENT: Denso
