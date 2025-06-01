@@ -16,18 +16,18 @@ Education
 
 Work experience
 ======
-* Current: Electrical Engineer
-  * Denso
+* Current: Denso
+  * Electrical Engineer
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* NOV 2023 - AUG 2024: Field Engineer
-  * Walmart Advanced Systems & Robotic
+* NOV 2023 - AUG 2024: Walmart Advanced Systems & Robotic
+  * Field Engineer
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* JUN 2022 - JAN 2023: Server Hardware Maintenance Lead
-  * University of Tennessee, Knoxville
+* JUN 2022 - JAN 2023: University of Tennessee, Knoxville
+  * Server Hardware Maintenance Lead
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
