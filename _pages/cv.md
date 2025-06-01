@@ -16,18 +16,18 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Current: Electrical Engineer
+  * Denso
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* NOV 2023 - AUG 2024: Field Engineer
+  * Walmart Advanced Systems & Robotic
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* JUN 2022 - JAN 2023: Server Hardware Maintenance Lead
+  * University of Tennessee, Knoxville
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
